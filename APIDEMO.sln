@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDEMO", "APIDEMO\APIDEMO.csproj", "{4FE40A76-F37F-43C9-9CC1-971D0EFD7054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CORE", "CORE\CORE.csproj", "{9C853CCA-47FB-40D2-BE10-2311436EF15B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE40A76-F37F-43C9-9CC1-971D0EFD7054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE40A76-F37F-43C9-9CC1-971D0EFD7054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE40A76-F37F-43C9-9CC1-971D0EFD7054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE40A76-F37F-43C9-9CC1-971D0EFD7054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C853CCA-47FB-40D2-BE10-2311436EF15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C853CCA-47FB-40D2-BE10-2311436EF15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C853CCA-47FB-40D2-BE10-2311436EF15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C853CCA-47FB-40D2-BE10-2311436EF15B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBD47D1E-9339-4389-AF59-D9B34073C2E2}
+	EndGlobalSection
+EndGlobal
